@@ -10,15 +10,6 @@ A data-driven exploration of India’s rich cultural landscape using open govern
 - **Visualization**: Plotly, Folium
 - **Deployment**: Local or Streamlit Cloud 
 
-## 📦 Setup Instructions
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/cultural-tapestry.git 
-   cd cultural-tapestry
-
-2. pip install -r requirements.txt
-
 # 🚀 Submission Tip
 
 ```bash
