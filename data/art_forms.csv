@@ -1,0 +1,6 @@
+art_name,state,description,origin_year,is_unesco_listed,image_url
+Madhubani,Bihar,Folk painting style originating in Bihar,1500,True,images/Madhubani.png
+Warli,Maharashtra,Tribal art form using geometric shapes,1600,False,images/Warli.png
+Cheriyal Scroll,Telangana,Narrative storytelling through painted scrolls,1800,False,images/Cheriyal Scroll.png
+Kathakali,Kerala,Classical dance-drama from Kerala,1700,True,images/Kathakali.png
+Pattachitra,Odisha,Scroll painting with mythological themes,1000,True,images/Pattachitra.png
